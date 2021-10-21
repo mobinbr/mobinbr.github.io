@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mobin Barfi"
-  avatar           : "/assets/images/mobin.jpg"
+  avatar           : "/assets/images/mb.jpg" 
   bio              : I'm CE student at IUST
   location         : "تهران"
   email            : mobinbr99@gmail.com
