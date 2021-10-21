@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [playing guitar](http://www.guitar.com/)
+* [reading books](https://www.storyworld.com/)
+* [work out]
 
 
