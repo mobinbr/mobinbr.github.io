@@ -7,8 +7,8 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
+  - url: /assets/images/iust.jfif
+    image_path: /assets/images/iust.jfif
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/2.jpg
