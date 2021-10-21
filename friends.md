@@ -9,10 +9,10 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [پویا آب نیکی](pouyaabniki.github.io)
-* [ماکان سیدجوادی](makanjavadi.github.io/Makan.github.io/)
-* [سید علی حسینی بحری](seyedalihosseinibahri.github.io)
-* [پدرام خجسته راد](p3dr4m0098.github.io)
-* [محمد مجتبی اسدی](Fateh00.github.io)
-* [محمد رضا تاجیک](mrezat.github.io)
+* [پویا آب نیکی](https://pouyaabniki.github.io)
+* [ماکان سیدجوادی](https://makanjavadi.github.io/Makan.github.io/)
+* [سید علی حسینی بحری](https://seyedalihosseinibahri.github.io)
+* [پدرام خجسته راد](https://p3dr4m0098.github.io)
+* [محمد مجتبی اسدی](https://Fateh00.github.io)
+* [محمد رضا تاجیک](https://mrezat.github.io)
 * [پارسا آقاعلی]
