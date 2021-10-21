@@ -7,26 +7,26 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/iust.jfif
-    image_path: /assets/images/iust.jfif
+  - url: /assets/images/IUST.jpg
+    image_path: /assets/images/IUST.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
+    title: "IUST"
+  - url: /assets/images/guitar1.jpg
+    image_path: /assets/images/guitar1.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
+    title: "dark mood"
+  - url: /assets/images/guitar2.png
+    image_path: /assets/images/guitar2.png
     alt: "placeholder image 3"
-    title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+    title: "Best Friends"  
+  - url: /assets/images/hell.jpg
+    image_path: /assets/images/hell.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+    title: "hell is empty and all the devils are here"
+  - url: /assets/images/purple1.jpg
+    image_path: /assets/images/purple1.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "purple vibe"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
