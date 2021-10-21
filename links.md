@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Guitarist](http://brianmay.com)
+* [Places I want to visit](http://en.wikipedia.org/wiki/Venice)
+* [My home city](http://en.wikipedia.org/wiki/Sanandaj)
+* [My university](http://iust.ac.ir)
 
